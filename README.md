@@ -1,5 +1,13 @@
 # IOSH Node Tech Test
 
+---
+
+me: These tech tests weve been getting are bad
+Mo: You do it then
+me: ok
+
+---
+
 https://www.getpostman.com/collections/6c3e1f3ce4399826038d
 
 npm install - to install dependencies
